@@ -1,4 +1,4 @@
-Hello , im Imisi
+Hello , I'm Imisi
 # 💫 About Me:
 Hello , I'm Imisi Bailey , I started coding at the age of 8, I am learning python, I am beginner in python. I've created about 20 projects this summer and i can't wait to add more to them
 
