@@ -1,9 +1,13 @@
 Hello , I'm Imisi
 # 💫 About Me:
-Hello , I'm Imisi Bailey , I started coding at the age of 8, I am learning python, I am beginner in python. I've created about 20 projects this summer and i can't wait to add more to them
+Hello , I'm Imisi Bailey , I started coding at the age of 8, I am learning python,HTML,CSS & javascript, I am beginner in python,HTML,CSS & javascript. I've created about 25 projects and i can't wait to add more to them!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImisiB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImisiB&theme=dark&hide_border=false)<br/>
