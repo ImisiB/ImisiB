@@ -1,5 +1,6 @@
-Hello there 💫💫💻
+# Hello there 💫💫💻
 
+My name is Basit Bailey, I am a web developer
 # 💫 About Me:
 Hello , I'm Imisi Bailey , I started coding at the age of 8, I am learning python,HTML,CSS & javascript, I am beginner in python,HTML,CSS & javascript. I've created about 25 projects and i can't wait to add more to them!
 
