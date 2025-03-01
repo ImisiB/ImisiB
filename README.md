@@ -1,4 +1,4 @@
-# Hello there 💫💫💻
+# Hello there ✨✨ 👋
 
 My name is Basit Bailey, I am a web developer
 # 💫 About Me:
