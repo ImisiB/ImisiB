@@ -6,6 +6,8 @@ Hello , I'm Imisi Bailey, a 12 year old developer. I started coding at the age o
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://shields.io)
+![CSS3](https://shields.io)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImisiB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
